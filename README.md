@@ -9,4 +9,4 @@ I was reviewing my MISP datasets and observed interesting trends across the inst
 # Indicators 
 ![alt text][attribution]
 
-[logo]: https://github.com/cloudsriseup/IntelMetrics/blob/master/attributeschart.PNG "Attribution Chart"
+[attribution]: https://github.com/cloudsriseup/IntelMetrics/blob/master/attributeschart.PNG "Attribution Chart"
