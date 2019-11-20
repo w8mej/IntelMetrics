@@ -1,10 +1,10 @@
 # Metadata 
 | File          | Date          | Analyst       | 
 |:------------- |:------------- |:------------- |
-| attributes  | 2019-20-11    | John Menerick   | 
+| Monthly Metrics Update  | 2019-20-11    | John Menerick   | 
 
 # Data 
-I was reviewing my MISP datasets and observed interesting trends across the instance.  
+John Menerick's private MISP instance with corresponding COINTEL datasets
 
 # Indicators 
 ## Attribution
@@ -16,7 +16,7 @@ I was reviewing my MISP datasets and observed interesting trends across the inst
 ## Tags
 ![alt text][tags]
 
-[tags]: https://github.com/cloudsriseup/IntelMetrics/blob/master/tagstreechart.PNG "tags tree chart"
+[tags]: https://github.com/cloudsriseup/IntelMetrics/blob/master/tagtreechart.PNG "tags tree chart"
 
 
 
