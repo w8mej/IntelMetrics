@@ -7,3 +7,6 @@
 I was reviewing my MISP datasets and observed interesting trends across the instance.  
 
 # Indicators 
+![alt text][attribution]
+
+[logo]: https://github.com/cloudsriseup/IntelMetrics/blob/master/attributeschart.PNG "Attribution Chart"
