@@ -1,8 +1,3 @@
-# Metadata 
-| File          | Date          | Analyst       | 
-|:------------- |:------------- |:------------- |
-| Monthly Metrics Update  | 2019-20-11    | John Menerick   | 
-
 # Data 
 John Menerick's private MISP instance with corresponding COINTEL datasets
 
